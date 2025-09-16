@@ -12,3 +12,4 @@ int main()
         std::cout << 10 / x;
     }
 }
+cout >> "Проверка";
